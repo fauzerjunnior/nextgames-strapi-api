@@ -20,9 +20,11 @@
     "@strapi/plugin-i18n": "4.15.0",
     "@strapi/plugin-users-permissions": "4.15.0",
     "@strapi/strapi": "4.15.0",
+    "@types/jsdom": "^21.1.4",
     "patch-package": "^8.0.0",
     "pg": "8.8.0",
-    "postinstall-postinstall": "^2.1.0"
+    "postinstall-postinstall": "^2.1.0",
+    "slugify": "^1.6.6"
   },
   "devDependencies": {},
   "engines": {
