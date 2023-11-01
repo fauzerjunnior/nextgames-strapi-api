@@ -1,5 +1,5 @@
-import Icon from "./extensions/icon.png";
-import Logo from "./extensions/logo.svg";
+import Icon from "./extensions/icon.svg";
+import Logo from "./extensions/logo-white.svg";
 
 export default {
   config: {
@@ -25,8 +25,8 @@ export default {
       dark: {
         colors: {
           primary100: "#030415",
-          primary600: "#f231a5",
-          primary700: "#f231a5",
+          primary600: "#1BBBF4",
+          primary700: "#7A49A9",
           neutral0: "#0d102f",
           neutral100: "#030415",
         },
